@@ -1,0 +1,229 @@
+Hero Honda Splendor
+45400
+100
+Hero Honda Glamour
+34020
+125
+Hero Honda Splendor Ace
+72000
+100
+Hero Honda Phoneix
+50020
+100
+Walton Classic
+40552
+80
+Walton Super
+43000
+100
+Walton Classic 125
+100000
+125
+Dyang Classic 80
+46000
+100
+Dyang Classic 100
+42000
+100
+Dyang Dynamic 125
+90000
+155
+Dyang Classic SF
+66000
+125
+Hero Honda Splendor
+45400
+100
+Hero Honda Glamour
+34020
+125
+Hero Honda Splendor Ace
+72000
+100
+Hero Honda Phoneix
+50020
+100
+Walton Classic
+40552
+80
+Walton Super
+43000
+100
+Walton Classic 125
+100000
+125
+Dyang Classic 80
+46000
+100
+Dyang Classic 100
+42000
+100
+Dyang Dynamic 125
+90000
+155
+Dyang Classic SF
+66000
+125
+Hero Honda Splendor
+45400
+100
+Hero Honda Glamour
+34020
+125
+Hero Honda Splendor Ace
+72000
+100
+Hero Honda Phoneix
+50020
+100
+Walton Classic
+40552
+80
+Walton Super
+43000
+100
+Walton Classic 125
+100000
+125
+Dyang Classic 80
+46000
+100
+Dyang Classic 100
+42000
+100
+Dyang Dynamic 125
+90000
+155
+Dyang Classic SF
+66000
+125
+Hero Honda Splendor
+45400
+100
+Hero Honda Glamour
+34020
+125
+Hero Honda Splendor Ace
+72000
+100
+Hero Honda Phoneix
+50020
+100
+Walton Classic
+40552
+80
+Walton Super
+43000
+100
+Walton Classic 125
+100000
+125
+Dyang Classic 80
+46000
+100
+Dyang Classic 100
+42000
+100
+Dyang Dynamic 125
+90000
+155
+Dyang Classic SF
+66000
+125
+Hero Honda Splendor
+45400
+100
+Hero Honda Glamour
+34020
+125
+Hero Honda Splendor Ace
+72000
+100
+Hero Honda Phoneix
+50020
+100
+Walton Classic
+40552
+80
+Bazaz Platina
+43000
+100
+Bazaz Classic 125
+100000
+125
+Bazaz Super 80
+46000
+100
+Dyang Classic 100
+42000
+100
+Dyang Dynamic 125
+90000
+155
+Dyang Classic SF
+66000
+125
+Hero Honda Splendor
+45400
+100
+Hero Honda Glamour
+34020
+125
+Hero Honda Splendor Ace
+72000
+100
+Hero Honda Phoneix
+50020
+100
+Walton Classic
+40552
+80
+Walton Super
+43000
+100
+Walton Classic 125
+100000
+125
+Dyang Classic 80
+46000
+100
+Dyang Classic 100
+42000
+100
+Dyang Dynamic 125
+90000
+155
+Dyang Classic SF
+66000
+125
+Dyang Honda 125
+90000
+125
+Dyang Hero SF
+60000
+100
+Dyang Honda 125
+90000
+125
+Suzuki Hang 125
+120000
+150
+Suzuki Hang 150
+100000
+125
+Yahamaha Classic
+100000
+125
+Yahmaha Super Classic 120
+120000
+150
+Victor R Cafe Racer
+100000
+125
+Victor R Cafe Racer Classic
+90000
+100
+
+
+
+
